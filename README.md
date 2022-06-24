@@ -1,2 +1,1 @@
-# smilga-05-menu
-Created with CodeSandbox
+# react-projects-5-menu
